@@ -1,0 +1,113 @@
+/*home page or index*/
+
+div.container-fluid-home {
+    background-color: #1FA7D8;
+    padding: 20px;
+}
+
+.logo {
+    background-image: url("http://cdn.inquisitr.com/wp-content/uploads/2015/03/se.jpg");
+    height: 400px;
+    width: 50%;
+    margin: auto;
+    border-radius: 20%; 
+}
+
+#top {
+	font-family: 'Cherry Cream Soda', cursive;
+    height: 30px;
+    margin: 20px;
+    text-align: center;
+    font-size-adjust: 60px;
+    color: #11028e;
+}
+
+#bttn{
+    margin: 20px;
+    padding: 15px;
+    position: center;
+}
+
+.bottom {
+    margin-left: 43%;
+}
+
+/*list css*/
+
+  div.list {
+        height: 200px;
+        width: 47%;
+        margin-top: 30px;
+        border-radius: 15px;
+        }
+
+#thought-container {
+    border: 1px solid royalblue;
+    margin-top: 1px;
+    margin-bottom: 100px;
+    opacity: .7;
+    color: #11028e;
+}
+
+#users-list {
+    margin-top: .5em;
+}
+
+   h1 {
+            font-family: 'Cherry Cream Soda', cursive;
+            height: 30px;
+            margin: 20px;
+            text-align: center;
+            font-size-adjust: 60px;
+            color: #11028e;
+        }
+
+
+    h2 {
+            font-family: 'Cherry Cream Soda', cursive;
+            height: 30px;
+            margin: 70px;
+            text-align: right;
+            font-size-adjust: 60px;
+            color: #11028e;
+    }
+
+div.steven {
+    margin-top: 10px;
+}
+
+/*single view css*/
+
+.singright {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/236x/fb/00/63/fb0063c8a5009dc3a703bbb9ab25e43f.jpg");
+    height: 500px;
+    width: 300px;
+    background-repeat: no-repeat;
+    margin: 70px;
+}
+
+.bodcen {
+            font-family: 'Cherry Cream Soda', cursive;
+            height: 30px;
+            margin: 20px;
+            text-align: right;
+            font-size-adjust: 60px;
+            color: blue;
+}
+
+div.harbor {
+    background: url("http://brooklynboatparty.com/images/nycliberty.jpg");
+    height: 800px;
+}
+
+.funny {
+    margin-top: 60px;
+}
+
+/*#soup {
+    background-image: url("https://ewedit.files.wordpress.com/2015/01/soup-nazi_320.jpg?w=320");
+}*/
+
+
+
+
