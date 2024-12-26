@@ -16,11 +16,7 @@ app.use(express.static(clientPath));
 app.use(bodyParser.json());
 
 var pool = mysql.createPool({
-    connectionLimit: 10,
-    host: "localhost",
-    user: "willsmith",
-    password: "romans831",
-    database: "Seinfeld"
+    connectionLimit: 10
 });
 
 function sendQuery(procedure, values) {
